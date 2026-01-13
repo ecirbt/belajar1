@@ -1,3 +1,4 @@
 Belajar 1
 - rajin belajar github
+- tau pakai github
 - lancar pakai github
